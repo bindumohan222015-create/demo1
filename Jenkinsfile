@@ -3,7 +3,7 @@ pipeline
     agent any
     
      environment {
-   git_branch = "main"
+   git_branch = "master"
    git_url = "https://github.com/bindumohan222015-create/demo1"
 }
     stages 
